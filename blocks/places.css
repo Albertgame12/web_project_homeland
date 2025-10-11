@@ -27,7 +27,7 @@
   text-align: left;
 }
 
-.places__city_title-berea {
+.places__city_titleb {
   grid-area: title;
   max-width: 460px;
   font-family: "Inter", sans-serif;
@@ -39,7 +39,7 @@
   text-align: left;
 }
 
-.places__city_title-muramvya {
+.places__city_titlem {
   grid-area: title;
   max-width: 460px;
   font-family: "Inter", sans-serif;
@@ -51,7 +51,7 @@
   text-align: left;
 }
 
-.places__city_acambaro {
+.places__city_titlea {
   grid-area: title;
   max-width: 460px;
   font-family: "Inter", sans-serif;
@@ -74,30 +74,6 @@
 }
 
 .places__artist_title {
-  max-width: 86px;
-  font-family: "inter", sans-serif;
-  font-size: 12px;
-  color: #fff;
-  margin: 170px 0 10px;
-}
-
-.places__artist_title-travis {
-  max-width: 86px;
-  font-family: "inter", sans-serif;
-  font-size: 12px;
-  color: #fff;
-  margin: 170px 0 10px;
-}
-
-.places__artist_title-grevisse {
-  max-width: 86px;
-  font-family: "inter", sans-serif;
-  font-size: 12px;
-  color: #fff;
-  margin: 170px 0 10px;
-}
-
-.places__name_alberto {
   max-width: 86px;
   font-family: "inter", sans-serif;
   font-size: 12px;
@@ -181,21 +157,21 @@
     line-height: 46px;
     margin-top: 100px;
   }
-  .places__city_title2 {
+  .places__city_titleb {
     max-width: 340px;
     font-size: 42px;
     line-height: 46px;
     margin-top: 80px;
   }
 
-  .places__city_title3 {
+  .places__city_titlem {
     max-width: 340px;
     font-size: 42px;
     line-height: 46px;
     margin-top: 80px;
   }
 
-  .places__city_title4 {
+  .places__city_titlea {
     max-width: 340px;
     font-size: 42px;
     line-height: 46px;
@@ -247,7 +223,7 @@
     text-align: left;
   }
 
-  .places__city_title2 {
+  .places__city_titleb {
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
@@ -255,7 +231,7 @@
     text-align: left;
   }
 
-  .places__city_title3 {
+  .places__city_titlem {
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
@@ -263,7 +239,7 @@
     text-align: left;
   }
 
-  .places__city_title4 {
+  .places__city_titlea {
     max-width: 288px;
     font-size: 32px;
     line-height: 35px;
