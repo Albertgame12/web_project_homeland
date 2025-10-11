@@ -51,7 +51,7 @@
   text-align: left;
 }
 
-.places__city_title-acambaro {
+.places__city_acambaro {
   grid-area: title;
   max-width: 460px;
   font-family: "Inter", sans-serif;
@@ -97,7 +97,7 @@
   margin: 170px 0 10px;
 }
 
-.places__artist_title-alberto {
+.places__artist_alberto {
   max-width: 86px;
   font-family: "inter", sans-serif;
   font-size: 12px;
