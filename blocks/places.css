@@ -27,7 +27,7 @@
   text-align: left;
 }
 
-.places__city_title2 {
+.places__city_title-berea {
   grid-area: title;
   max-width: 460px;
   font-family: "Inter", sans-serif;
@@ -39,7 +39,7 @@
   text-align: left;
 }
 
-.places__city_title3 {
+.places__city_title-muramvya {
   grid-area: title;
   max-width: 460px;
   font-family: "Inter", sans-serif;
@@ -51,7 +51,7 @@
   text-align: left;
 }
 
-.places__city_title4 {
+.places__city_title-acambaro {
   grid-area: title;
   max-width: 460px;
   font-family: "Inter", sans-serif;
@@ -81,7 +81,7 @@
   margin: 170px 0 10px;
 }
 
-.places__artist_title2 {
+.places__artist_title-travis {
   max-width: 86px;
   font-family: "inter", sans-serif;
   font-size: 12px;
@@ -89,7 +89,7 @@
   margin: 170px 0 10px;
 }
 
-.places__artist_title3 {
+.places__artist_title-grevisse {
   max-width: 86px;
   font-family: "inter", sans-serif;
   font-size: 12px;
@@ -97,7 +97,7 @@
   margin: 170px 0 10px;
 }
 
-.places__artist_title4 {
+.places__artist_title-alberto {
   max-width: 86px;
   font-family: "inter", sans-serif;
   font-size: 12px;
